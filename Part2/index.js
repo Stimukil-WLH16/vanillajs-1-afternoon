@@ -6,3 +6,4 @@ function setCard(){
     card.style.color = colorInput.value
 }
 
+// hidden code goes here
